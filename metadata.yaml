@@ -1,0 +1,32 @@
+_repo: Faust-Part-1_3023
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: 'Translation of: Faust, 1. Theil'
+gutenberg_bookshelf:
+- Harvard Classics
+- Best Books Ever Listings
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3023'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- Translations into English'
+- !lcsh 'Magicians -- Drama'
+- !lcsh 'Faust, -approximately 1540 -- Drama'
+- !lcc 'PT'
+- !lcsh 'Legends -- Germany -- Drama'
+title: Faust — Part 1
+url: http://www.gutenberg.org/ebooks/3023
